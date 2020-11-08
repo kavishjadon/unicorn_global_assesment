@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ankit Mishra",
+    "batch": "mm1",
+    "rollno": "IMS000012345",
+    "classesAttended": []
+  },
+  {
+    "name": "Mehul Sharma",
+    "batch": "mm1",
+    "rollno": "IMS000012346",
+    "classesAttended": []
+  },
+  {
+    "name": "Arun Jain",
+    "batch": "mm1",
+    "rollno": "IMS000012347",
+    "classesAttended": []
+  },
+  {
+    "name": "Pretti Saxena",
+    "batch": "mm2",
+    "rollno": "IMS000012348",
+    "classesAttended": []
+  },
+  {
+    "name": "Amar Singh",
+    "batch": "mm2",
+    "rollno": "IMS000012349",
+    "classesAttended": []
+  },
+  {
+    "name": "Amit Verma",
+    "batch": "mm2",
+    "rollno": "IMS000012350",
+    "classesAttended": []
+  }
+]

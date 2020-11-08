@@ -1,0 +1,26 @@
+[
+  {
+    "start_time": "11/7/2020, 10:00:00 AM",
+    "end_time": "11/7/2020, 11:00:00 AM",
+    "topic": "algebra",
+    "teacher": "prashant gupta",
+    "batch": "mm1",
+    "marked": false
+  },
+  {
+    "start_time": "11/7/2020, 2:00:00 PM",
+    "end_time": "11/7/2020, 3:00:00 PM",
+    "topic": "maths",
+    "teacher": "anjali singh",
+    "batch": "mm2",
+    "marked": false
+  },
+  {
+    "start_time": "11/7/2020, 5:00:00 PM",
+    "end_time": "11/7/2020, 6:00:00 PM",
+    "topic": "science",
+    "teacher": "simran saxena",
+    "batch": "mm1",
+    "marked": false
+  }
+]
