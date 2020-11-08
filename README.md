@@ -1,4 +1,4 @@
-# unicorn_global_assesment
+# Unicorn Global Assesment
 
 ## Quick Start
 
